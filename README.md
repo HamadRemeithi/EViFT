@@ -13,4 +13,4 @@ Pytorch >= 1.9.1
 
 ## Acknowledgement
 
-This codebase is built on top of [Image-Fusion-Transformer](https://github.com/Vibashan/Image-Fusion-Transformer) by [Vibashan](https://github.com/Vibashan).
+This codebase is still in progress and is being built on top of [Image-Fusion-Transformer](https://github.com/Vibashan/Image-Fusion-Transformer) by [Vibashan](https://github.com/Vibashan).
