@@ -2,7 +2,7 @@
 
 ## Platform
 
-Python >= 3.9
+Python >= 3.9 <br>
 Pytorch >= 1.9.1
 
 ## Training Dataset
